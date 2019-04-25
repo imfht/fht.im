@@ -1557,7 +1557,8 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
-			width: 100%;
+			width: 320px;
+			height: 250px;
 		}
 
 		.image.featured {
